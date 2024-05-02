@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2018 yuzu Emulator Project
+SPDX-FileCopyrightText: 2024 Hydra Emulator Project
 SPDX-License-Identifier: GPL-2.0-or-later
 -->
 
@@ -11,7 +11,7 @@ SPDX-License-Identifier: GPL-2.0-or-later
   <br>
 </h1>
 
-<h4 align="center"><b>Hydras</b> are very powerful creatures, therefore Nintendo should know, cut off one head and two more grow back..
+<h4 align="center"><b>Hydras</b> are very powerful creatures, therefore Nintendo should know, cut off one head and two more grow back in its place...
 <br>
 It is written in C++ with portability in mind, no builds are actively maintained as this is just an archive.
 </h4>
@@ -35,7 +35,7 @@ The emulator is capable of running most commercial games at full speed, provided
 
 For a full list of games hydra supports, please visit our [Compatibility page](https://yuzu-emu.org/game/).
 
-Check out our [website](https://tinyurl.com/3fcxmp6d/) for the latest news on exciting features, monthly progress reports, and more!
+Check out our [website](https://yuzu-mirror.github.io/) for the latest news on exciting features, monthly progress reports, and more!
 
 ## Development
 
@@ -43,8 +43,8 @@ I have no plans to further any development of this piece of software at this tim
 
 ## Building
 
-* __Windows__: [Windows Build](https://tinyurl.com/56huvsvk)
-* __Linux__: [Linux Build](https://tinyurl.com/2zn2ma9y)
+* __Windows__: [Windows Build](https://web.archive.org/web/20240304181933/https://github.com/yuzu-emu/yuzu/wiki/Building-For-Windows)
+* __Linux__: [Linux Build](https://web.archive.org/web/20240301201722/http://github.com/yuzu-emu/yuzu/wiki/Building-For-Linux)
 
 ## Download
 
@@ -56,7 +56,7 @@ hydra is licensed under the GPLv3 (or any later version). Refer to the [LICENSE.
 
 ## Copyright notice
 
-All software used in tandem with this program MUST be purchased and legally obtained, any piracy is FORBIDDEN. According to the DMCA. 17 U.S.C § 1201(f)(1)
+"All software utilized in conjunction with this program is open source and freely distributable. This software is intended solely to facilitate interoperability with legally purchased works on personal 'handheld-hybrid' gaming systems owned by the user, in accordance with [17 U.S.C § 1201(f)(1) of the Digital Millennium Copyright Act](https://www.law.cornell.edu/uscode/text/17/1201). While this software is a lawful circumvention tool under said statute, intended exclusively for enabling interoperability of legally obtained games, any use of this software to engage in piracy is strictly forbidden and in violation of applicable laws. Accordingly, any claims of infringement, including DMCA takedown notices, concerning the replication or distribution of this software, when used as intended, are baseless and should be considered without merit."
 
 ## Sharing
 
