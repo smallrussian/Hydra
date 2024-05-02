@@ -60,11 +60,11 @@ Find it on the internet, and spread it far and wide. The latest non EA version i
 
 ## License
 
-hydra is licensed under the GPLv3 (or any later version). Refer to the [LICENSE.txt](https://github.com/yuzu-emu/yuzu/blob/master/LICENSE.txt) file.
+hydra is licensed under the GPLv3 (or any later version). Refer to the [LICENSE.txt](https://github.com/smallrussian/Hydra/blob/main/LICENSE.txt) file.
 
 ## Copyright notice
 
-All software used in tandem with this program MUST be purchased and legally obtained, any piracy is FORBIDDEN. The DMCA says that you are allowed to bypass copy protection on something that you own if you are trying to [achieve interoperability with an independently created piece of software](https://www.law.cornell.edu/uscode/text/17/1201) So fuck off with your DMCA notice Nintendo, it is ILLEGAL.
+All software used in tandem with this program MUST be purchased and legally obtained, any piracy is FORBIDDEN. According to the DMCA. 17 U.S.C § 1201(f)(1)
 
 ## Sharing
 
