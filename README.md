@@ -17,14 +17,6 @@ It is written in C++ with portability in mind, no builds are actively maintained
 </h4>
 
 <p align="center">
-    <a href="https://dev.azure.com/yuzu-emu/yuzu/">
-        <img src="https://dev.azure.com/yuzu-emu/yuzu/_apis/build/status/yuzu%20mainline?branchName=master"
-            alt="Azure Mainline CI Build Status">
-    </a>
-
-</p>
-
-<p align="center">
   <a href="#compatibility">Compatibility</a> |
   <a href="#development">Development</a> |
   <a href="#building">Building</a> |
