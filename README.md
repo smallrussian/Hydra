@@ -4,9 +4,9 @@ SPDX-License-Identifier: GPL-2.0-or-later
 -->
 
 <h1 align="center">
-  <br>
+  <!-- <br>
   <a href="https://yuzu-emu.org/"><img src="https://raw.githubusercontent.com/yuzu-emu/yuzu-assets/master/icons/icon.png" alt="Hydra" width="200"></a>
-  <br>
+  <br> -->
   <b>Hydra</b>
   <br>
 </h1>
